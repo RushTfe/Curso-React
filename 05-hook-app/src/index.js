@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { MemoHook } from './components/06-memos/MemoHook';
+import { Padre } from './components/07-tarea-memo/Padre';
 
 ReactDOM.render(
-    <MemoHook />,
+    <Padre />,
   document.getElementById('root')
 );
 
